@@ -4,7 +4,7 @@
 &#x20;    Palette: Obsidian / Burnt Orange / Warm Ivory
 ====================================================== -->
 
-<p align="center">   <img     src="../assets/qinis-github-banner.png"     alt="QINIS — Software deserves better engineering."     width="100%"   /> </p>
+<p align="center">   <img     src="../assets/QINIS BANNER IMAGE.png"     alt="QINIS — Software deserves better engineering."     width="100%"   /> </p>
 
 <h1 align="center">ENGINEERING INTELLIGENCE.</h1>
 
